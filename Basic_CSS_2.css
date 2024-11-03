@@ -1,0 +1,13 @@
+p {
+    color:violet;
+    background:blue;
+    font-weight: bold;
+    text-align: center;
+}
+.Basic_CSS_2 {
+    color:aquamarine;
+}
+h2 {
+    color:white;
+    text-shadow: 1px 1px 3px green, 1px 2px 5px lightseagreen;
+}
